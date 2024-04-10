@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noah Waller</h1>
-<h3 align="center">A passionate data analyst from the US</h3>
+<h3 align="center">A PhD Neuroscientist with a passion for Data Science.</h3>
 
-- 🌱 I’m currently learning **advanced Python techniques in Machine Learning**
+- 🌱 I’m currently learning **advanced Python techniques in Machine Learning** 
 
-- 📫 How to reach me **ncwaller@umich.edu**
+- 📫 Please feel free to reach out at **ncwaller@umich.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/noahcwaller/](https://www.linkedin.com/in/noahcwaller/)
+- 📄 Check out my resume and experiences at [https://www.linkedin.com/in/noahcwaller/](https://www.linkedin.com/in/noahcwaller/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
